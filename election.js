@@ -16,8 +16,3 @@ $(document).ready(function() {
         }
   });
 });
-
-
-for (var i = 0; i < array.length; i++) {
-  array[i]
-}
